@@ -15,7 +15,7 @@ namespace AdvancedCachingExample.Repositories
 
         public async Task<IEnumerable<WeatherForecast>> GetAllWeatherAsync()
         {
-            return await _context.WeatherForecasts.ToListAsync();
+            return await _context.WeatherForecasts.AsNoTracking().ToListAsync();
         }
 
         public async Task<WeatherForecast> AddWeatherAsync(WeatherForecast weather)

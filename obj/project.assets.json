@@ -5180,11 +5180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\AdvancedCachingExample\\AdvancedCachingExample.csproj",
+      "projectUniqueName": "E:\\Study\\AdvancedCachingAPI\\AdvancedCachingExample.csproj",
       "projectName": "AdvancedCachingExample",
-      "projectPath": "E:\\Study\\AdvancedCachingExample\\AdvancedCachingExample.csproj",
+      "projectPath": "E:\\Study\\AdvancedCachingAPI\\AdvancedCachingExample.csproj",
       "packagesPath": "C:\\Users\\atare\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\AdvancedCachingExample\\obj\\",
+      "outputPath": "E:\\Study\\AdvancedCachingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -5213,6 +5213,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

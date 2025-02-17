@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedCachingExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca9c1b5090eceb422a6bec98de423a3e66ba8b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedCachingExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedCachingExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
